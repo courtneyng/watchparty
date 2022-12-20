@@ -123,3 +123,13 @@ div.container{
         font-size: 3vw;
     }
 }
+
+/* Laptop screens i hope */
+@media only screen and (min-width: 981px){
+    .gallery img{
+        
+        width: 25%;
+        height: auto;
+        
+    }
+}
